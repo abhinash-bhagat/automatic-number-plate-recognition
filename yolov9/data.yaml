@@ -1,0 +1,6 @@
+train: '/content/drive/MyDrive/License-Detection/dataset/train/images'
+val: '/content/drive/MyDrive/License-Detection/dataset/valid/images'
+test: '/content/drive/MyDrive/License-Detection/dataset/test/images'
+
+nc: 1
+names: ['License_Plate']
