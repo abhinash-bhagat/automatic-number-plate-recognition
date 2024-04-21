@@ -1,0 +1,8 @@
+Download any license dataset in yolov8 format from Roboflow.
+Paste the dataset here in this folder as:
+|--train
+|--test
+|--valid
+
+folder structure where each folder contains 2 sub folders as:
+"images" and "labels"
