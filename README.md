@@ -16,7 +16,7 @@ To use the project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/automatic-number-plate-recognition.git
+   git clone https://github.com/abhinash-bhagat/automatic-number-plate-recognition.git
    cd license-plate-detection
 
 2. **Install Dependencies**:
